@@ -1,0 +1,2 @@
+# Minor Project 1
+ This repository contains 10 beginner-friendly HTML and CSS projects, including a personal portfolio, product landing page, blog post template, image gallery, sticky navbar, e-commerce product listing, "About Us" page, blog homepage, FAQ section, and a responsive services card layout. Each project demonstrates core web development concepts like semantic HTML, basic CSS styling, responsive design, forms, and layout techniques using the box model and media queries. Perfect for practicing and showcasing foundational frontend skills.
